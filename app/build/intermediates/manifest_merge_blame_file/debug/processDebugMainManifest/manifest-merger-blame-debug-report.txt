@@ -20,34 +20,34 @@
 15-->[androidx.core:core:1.12.0] /home/ruhua/.gradle/caches/8.10/transforms/791b23bc4a4457390203e8dad1e3fb1f/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:4:5-20:19
+17-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:4:5-20:19
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 18-->[androidx.core:core:1.12.0] /home/ruhua/.gradle/caches/8.10/transforms/791b23bc4a4457390203e8dad1e3fb1f/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 19        android:debuggable="true"
 20        android:extractNativeLibs="true"
 21        android:icon="@mipmap/ic_launcher"
-21-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:6:9-43
+21-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:6:9-43
 22        android:label="Love"
-22-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:5:9-29
+22-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:5:9-29
 23        android:roundIcon="@mipmap/ic_launcher_round"
-23-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:7:9-54
+23-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:7:9-54
 24        android:theme="@style/AppTheme" >
-24-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:8:9-40
+24-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:8:9-40
 25        <activity
-25-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:10:5-18:20
+25-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:10:5-18:20
 26            android:name="com.love.helloapp.MainActivity"
-26-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:11:13-41
+26-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:11:13-41
 27            android:exported="true" >
-27-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:12:13-36
+27-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:12:13-36
 28            <intent-filter>
-28-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:14:13-17:29
+28-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:14:13-17:29
 29                <action android:name="android.intent.action.MAIN" />
-29-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:15:17-69
-29-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:15:25-66
+29-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:15:17-69
+29-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:15:25-66
 30
 31                <category android:name="android.intent.category.LAUNCHER" />
-31-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:16:17-77
-31-->/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:16:27-74
+31-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:16:17-77
+31-->/home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:16:27-74
 32            </intent-filter>
 33        </activity>
 34        <activity

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ruhua/.gradle/caches/8.10/transforms/2d8f0ba77ea7ccb2d123b5b35dacd9b4/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/ruhua/.gradle/caches/8.10/transforms/54c2ab007ffc1dd2ece61885df308535/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/ruhua/.gradle/caches/8.10/transforms/05a7015c6f4236021ea21f2b60188654/transformed/jetified-material3-release/AndroidManifest.xml:17:1-22:12
@@ -61,16 +61,16 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ruhua/.gradle/caches/
 MERGED from [androidx.tracing:tracing:1.0.0] /home/ruhua/.gradle/caches/8.10/transforms/ff1d1305d91e4cf5a67288794e9e80a5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ruhua/.gradle/caches/8.10/transforms/68d60dcd25c81780e8dad45e40e1e93b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:4:5-20:19
-INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:4:5-20:19
+ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:4:5-20:19
+INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:4:5-20:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] /home/ruhua/.gradle/caches/8.10/transforms/064dca535e8f56b7e7a4794e0a3f7e4c/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] /home/ruhua/.gradle/caches/8.10/transforms/064dca535e8f56b7e7a4794e0a3f7e4c/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.6.6] /home/ruhua/.gradle/caches/8.10/transforms/9b335dff231156757e23217fa6959167/transformed/jetified-ui-test-manifest-1.6.6/AndroidManifest.xml:22:5-26:19
@@ -88,37 +88,37 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/ruhua/.grad
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ruhua/.gradle/caches/8.10/transforms/f7f8ceba67e0a8078bb6db5860d3c9c0/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ruhua/.gradle/caches/8.10/transforms/f7f8ceba67e0a8078bb6db5860d3c9c0/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /home/ruhua/.gradle/caches/8.10/transforms/791b23bc4a4457390203e8dad1e3fb1f/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:5:9-29
+		ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:5:9-29
 	android:roundIcon
-		ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:7:9-54
+		ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:7:9-54
 	android:icon
-		ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:6:9-43
+		ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:6:9-43
 	android:theme
-		ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:8:9-40
+		ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:8:9-40
 activity#com.love.helloapp.MainActivity
-ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:10:5-18:20
+ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:10:5-18:20
 	android:exported
-		ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:12:13-36
+		ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:12:13-36
 	android:name
-		ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:11:13-41
+		ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:11:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:14:13-17:29
+ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:14:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml
-INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml
+INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml
+INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ruhua/.gradle/caches/8.10/transforms/2d8f0ba77ea7ccb2d123b5b35dacd9b4/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ruhua/.gradle/caches/8.10/transforms/2d8f0ba77ea7ccb2d123b5b35dacd9b4/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/ruhua/.gradle/caches/8.10/transforms/54c2ab007ffc1dd2ece61885df308535/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
@@ -232,9 +232,9 @@ MERGED from [androidx.tracing:tracing:1.0.0] /home/ruhua/.gradle/caches/8.10/tra
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ruhua/.gradle/caches/8.10/transforms/68d60dcd25c81780e8dad45e40e1e93b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ruhua/.gradle/caches/8.10/transforms/68d60dcd25c81780e8dad45e40e1e93b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/ruhua/Temp/Dev/androidapp_demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ruhua/Temp/Dev/initapp/app/src/main/AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling-android:1.6.6] /home/ruhua/.gradle/caches/8.10/transforms/064dca535e8f56b7e7a4794e0a3f7e4c/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
 	android:exported

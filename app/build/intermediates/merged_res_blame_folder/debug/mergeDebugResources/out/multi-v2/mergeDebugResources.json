@@ -4695,22 +4695,20 @@
                     }
                 },
                 {
-                    "source": "/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/res/values/styles.xml",
+                    "source": "/home/ruhua/Temp/Dev/initapp/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2",
+                        "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "17",
-                        "endLines": "3",
-                        "endColumns": "12",
-                        "endOffsets": "96"
+                        "startOffsets": "16",
+                        "endColumns": "45",
+                        "endOffsets": "57"
                     },
                     "to": {
-                        "startLines": "408",
+                        "startLines": "314",
                         "startColumns": "4",
-                        "startOffsets": "26822",
-                        "endLines": "409",
-                        "endColumns": "12",
-                        "endOffsets": "26901"
+                        "startOffsets": "20256",
+                        "endColumns": "45",
+                        "endOffsets": "20297"
                     }
                 },
                 {
@@ -4818,20 +4816,22 @@
                     }
                 },
                 {
-                    "source": "/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/res/values/strings.xml",
+                    "source": "/home/ruhua/Temp/Dev/initapp/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "1",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "45",
-                        "endOffsets": "57"
+                        "startOffsets": "17",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "96"
                     },
                     "to": {
-                        "startLines": "314",
+                        "startLines": "408",
                         "startColumns": "4",
-                        "startOffsets": "20256",
-                        "endColumns": "45",
-                        "endOffsets": "20297"
+                        "startOffsets": "26822",
+                        "endLines": "409",
+                        "endColumns": "12",
+                        "endOffsets": "26901"
                     }
                 },
                 {
@@ -4849,23 +4849,6 @@
                         "startOffsets": "17670",
                         "endColumns": "42",
                         "endOffsets": "17708"
-                    }
-                },
-                {
-                    "source": "/home/ruhua/Temp/Dev/androidapp_demo/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "286,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "323,97,144,191,236,281,365"
-                    },
-                    "to": {
-                        "startLines": "22,65,66,67,78,79,82",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "1497,4384,4431,4478,5222,5267,5433",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "1534,4426,4473,4520,5262,5307,5470"
                     }
                 },
                 {
@@ -4902,6 +4885,23 @@
                         "endLines": "2059,2065,2075,3046,3050",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "133860,134038,134322,166784,166911"
+                    }
+                },
+                {
+                    "source": "/home/ruhua/Temp/Dev/initapp/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "22,65,66,67,78,79,82",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1497,4384,4431,4478,5222,5267,5433",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "1534,4426,4473,4520,5262,5307,5470"
                     }
                 }
             ]
